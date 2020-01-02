@@ -195,6 +195,7 @@ def main():
         raw_data = input("\nWould you like to see five lines of raw data? Enter yes or no\n").strip().lower()
         start = 0
         end = 5
+        #Asks user for if they would like to see the raw data
         while(raw_data == "yes"):
             print(df.iloc[start:end])
             start += 5
