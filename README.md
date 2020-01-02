@@ -1,5 +1,5 @@
 ### Date created
-1/1/20
+01/01/2020
 
 ### Project Title
 Project 3 Github/versioncontrol
